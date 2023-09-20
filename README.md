@@ -33,4 +33,4 @@ sense in bépo keyboard layouts. For instance
 
 - `«` maps to `<`
 - `»` maps to `>`
-- `HJKL` re ordered to be compatible with the layout `LJKH`.
+- `HJKL` re ordered to be compatible with the layout `KJLH`.
