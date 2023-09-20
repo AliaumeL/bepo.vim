@@ -2,10 +2,14 @@
 nnoremap « <
 nnoremap » >
 
-" Remap HJKL to LJKH
+" Remap HJKL to LHKJ
 nnoremap h l
 nnoremap H L
-nnoremap l h
-nnoremap L H
+nnoremap l j
+nnoremap L J
+nnoremap j k
+nnoremap J K
+nnoremap k h
+nnoremap K H
 
 
